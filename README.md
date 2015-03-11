@@ -17,7 +17,7 @@ $ cd ~/Library/Application Support/Sublime Text 3/Packages/User
 $ rm -r User
 
 # Clone new settings
-$ git clone https://github.com/joshfriend/sublime-settings.git User
+$ git clone https://github.com/jacebrowning/sublime-settings.git User
 ```
 
 When Sublime is restarted again, Package Control will install the packages

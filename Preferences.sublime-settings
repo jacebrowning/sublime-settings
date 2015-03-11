@@ -1,8 +1,9 @@
 {
+	"always_prompt_for_file_reload": false,
 	"bold_folder_labels": true,
 	"caret_style": "blink",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Solarized/Solarized (dark).tmTheme",
+	"color_scheme": "Packages/User/Monokai (Flake8Lint).tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -90,7 +91,7 @@
 		"Pods"
 	],
 	"font_face": "Monaco",
-	"font_size": 10,
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"SublimeLinter-pep8",
@@ -106,8 +107,9 @@
 	"margin": 0,
 	"rulers":
 	[
+		72,
 		80,
-		120
+		100,
 	],
 	"scroll_past_end": false,
 	"theme": "Soda Dark 3.sublime-theme",
