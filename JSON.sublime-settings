@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
-		".sublime-project"
+		".sublime-project",
+		".xctool-args"
 	]
 }
