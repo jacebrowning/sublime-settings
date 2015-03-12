@@ -1,7 +1,7 @@
 {
 	"always_prompt_for_file_reload": false,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/Monokai (Flake8Lint).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (Flake8Lint) (SL).tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -91,14 +91,9 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
-		"SublimeLinter-pep8",
-		"SublimeLinter-flake8",
-		"SublimeLinter-pep257",
-		"SublimeLinter-jshint",
 		"ARM Assembly",
 		"SublimeGDB",
 		"VintageEx",
-		"SublimeLinter",
 		"Vintage",
 		"Makefile",
 		"Markdown"
