@@ -1,7 +1,32 @@
 {
+	"added_words":
+	[
+		"Dropbox",
+		"dropbox",
+		"itunes",
+		"xctool",
+		"xcode",
+		"xcodecoverage",
+		"lcov",
+		"Facebook",
+		"python3",
+		"pip3",
+		"Homebrew",
+		"lifehacker",
+		"Django",
+		"Adonit",
+		"meetup",
+		"app",
+		"Blog",
+		"Jace",
+		"We’ve",
+		"we’d",
+		"We’re",
+		"al"
+	],
 	"always_prompt_for_file_reload": false,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/Monokai (SL) (Flake8Lint).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (Flake8Lint) (SL).tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"extra_file_exclude_patterns":
@@ -174,12 +199,24 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
-		"Vintage",
-		"VintageEx",
-		"Markdown",
-		"Makefile",
 		"SublimeGDB",
-		"ARM Assembly"
+		"Vintage",
+		"ARM Assembly",
+		"Makefile",
+		"VintageEx",
+		"Markdown"
+	],
+	"ignored_words":
+	[
+		"Behrens",
+		"Enk",
+		"Marsiglia",
+		"Vokes",
+		"Vranish",
+		"cloudproductivity",
+		"com/5715126",
+		"digiwonk",
+		"wonderhowto"
 	],
 	"rulers":
 	[
