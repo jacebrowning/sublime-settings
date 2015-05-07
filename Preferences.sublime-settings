@@ -22,7 +22,10 @@
 		"We’ve",
 		"we’d",
 		"We’re",
-		"al"
+		"al",
+		"filesystem",
+		"Modustri",
+		"Javascript"
 	],
 	"always_prompt_for_file_reload": false,
 	"close_windows_when_empty": false,
@@ -199,12 +202,12 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
-		"VintageEx",
-		"Vintage",
-		"ARM Assembly",
 		"SublimeGDB",
+		"Makefile",
 		"Markdown",
-		"Makefile"
+		"ARM Assembly",
+		"Vintage",
+		"VintageEx"
 	],
 	"ignored_words":
 	[
