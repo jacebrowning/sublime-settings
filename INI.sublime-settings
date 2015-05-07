@@ -2,6 +2,7 @@
 	"extensions":
 	[
 		".pylintrc",
-		".noserc"
+		".noserc",
+		"conf"
 	]
 }
