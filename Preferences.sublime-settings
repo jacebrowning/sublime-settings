@@ -202,12 +202,12 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
-		"SublimeGDB",
 		"Makefile",
-		"Markdown",
 		"ARM Assembly",
 		"Vintage",
-		"VintageEx"
+		"SublimeGDB",
+		"VintageEx",
+		"Markdown"
 	],
 	"ignored_words":
 	[
@@ -231,5 +231,7 @@
 	"spell_check": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"use_simple_full_screen": true
+	"use_simple_full_screen": true,
+	"auto_indent": true,
+	"indent_to_bracket": true
 }
