@@ -112,8 +112,7 @@
 		".anvil",
 		"_site",
 		"_build",
-		"build",
-		"Pods"
+		"build"
 	],
 	"file_exclude_patterns":
 	[
@@ -196,8 +195,7 @@
 		".anvil",
 		"_site",
 		"_build",
-		"build",
-		"Pods"
+		"build"
 	],
 	"font_size": 13,
 	"ignored_packages":
