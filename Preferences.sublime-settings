@@ -28,6 +28,7 @@
 		"Javascript"
 	],
 	"always_prompt_for_file_reload": false,
+	"auto_indent": true,
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (Flake8Lint) (SL).tmTheme",
 	"default_line_ending": "unix",
@@ -197,15 +198,15 @@
 		"_build",
 		"build"
 	],
-	"font_size": 13,
+	"font_size": 15,
 	"ignored_packages":
 	[
-		"Makefile",
 		"ARM Assembly",
+		"Makefile",
 		"Vintage",
-		"SublimeGDB",
 		"VintageEx",
-		"Markdown"
+		"Markdown",
+		"SublimeGDB"
 	],
 	"ignored_words":
 	[
@@ -219,6 +220,7 @@
 		"digiwonk",
 		"wonderhowto"
 	],
+	"indent_to_bracket": true,
 	"rulers":
 	[
 		72,
@@ -229,7 +231,5 @@
 	"spell_check": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"use_simple_full_screen": true,
-	"auto_indent": true,
-	"indent_to_bracket": true
+	"use_simple_full_screen": true
 }
