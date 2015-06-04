@@ -6,23 +6,12 @@
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
         "gutter_theme_excludes": [],
-        "lint_mode": "background",
+        "lint_mode": "load/save",
         "linters": {
             "apiblueprint": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
-            },
-            "flake8": {
-                "@disable": false,
-                "args": [],
-                "builtins": "",
-                "excludes": [],
-                "ignore": "",
-                "jobs": "1",
-                "max-complexity": -1,
-                "max-line-length": null,
-                "select": ""
             },
             "jshint": {
                 "@disable": false,
@@ -30,7 +19,7 @@
                 "excludes": []
             },
             "pep257": {
-                "@disable": true,
+                "@disable": false,
                 "args": [],
                 "excludes": [],
                 "ignore": ""
