@@ -39,7 +39,7 @@
                 "enable": "",
                 "excludes": [],
                 "paths": [],
-                "rcfile": "",
+                "rcfile": ".pylintrc",
                 "show-codes": false
             }
         },
