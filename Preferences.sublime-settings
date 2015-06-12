@@ -25,7 +25,8 @@
 		"al",
 		"filesystem",
 		"Modustri",
-		"Javascript"
+		"Javascript",
+		"keychain"
 	],
 	"always_prompt_for_file_reload": false,
 	"auto_indent": true,
@@ -154,7 +155,6 @@
 		"coverage.xml",
 		"clover.xml",
 		"pyunit.xml",
-		"*.lock",
 		"*.pid",
 		"celerybeat-schedule",
 		"apiary.html",
@@ -198,15 +198,15 @@
 		"_build",
 		"build"
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"ignored_packages":
 	[
-		"Makefile",
-		"ARM Assembly",
 		"VintageEx",
-		"Vintage",
 		"Markdown",
-		"SublimeGDB"
+		"SublimeGDB",
+		"ARM Assembly",
+		"Makefile",
+		"Vintage"
 	],
 	"ignored_words":
 	[
