@@ -5,25 +5,16 @@
 	"installed_packages":
 	[
 		"ApacheConf.tmLanguage",
-		"API Blueprint",
-		"ARM Assembly",
-		"Git",
 		"Git Config",
 		"GitHub Flavored Markdown Preview",
 		"Gitignore",
-		"Gitignored File Excluder",
 		"Google Spell Check",
-		"Gradle_Language",
 		"Handlebars",
 		"INI",
-		"Jedi - Python autocompletion",
 		"Jinja2",
-		"LineEndings",
 		"Makefile Improved",
 		"Markdown Extended",
-		"Markdown Preview",
 		"MarkdownEditing",
-		"Modific",
 		"Package Control",
 		"Pretty JSON",
 		"Puppet",
@@ -33,10 +24,6 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-pep257",
 		"SublimeLinter-pep8",
-		"SublimeLinter-pylint",
-		"Theme - Flatland",
-		"Theme - Nexus",
-		"Theme - Soda",
-		"Verilog"
+		"SublimeLinter-pylint"
 	]
 }

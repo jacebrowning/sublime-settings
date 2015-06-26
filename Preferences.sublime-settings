@@ -201,10 +201,9 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
+		"SublimeGDB",
 		"VintageEx",
 		"Markdown",
-		"SublimeGDB",
-		"ARM Assembly",
 		"Makefile",
 		"Vintage"
 	],
