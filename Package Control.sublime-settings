@@ -10,6 +10,7 @@
 		"Gitignore",
 		"Google Spell Check",
 		"Handlebars",
+		"HTTP Spec Syntax",
 		"INI",
 		"Jinja2",
 		"Makefile Improved",
@@ -24,6 +25,7 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-pep257",
 		"SublimeLinter-pep8",
-		"SublimeLinter-pylint"
+		"SublimeLinter-pylint",
+		"Swift"
 	]
 }

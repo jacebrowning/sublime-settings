@@ -201,11 +201,11 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
+		"Markdown",
 		"SublimeGDB",
 		"VintageEx",
-		"Markdown",
-		"Makefile",
-		"Vintage"
+		"Vintage",
+		"Makefile"
 	],
 	"ignored_words":
 	[
