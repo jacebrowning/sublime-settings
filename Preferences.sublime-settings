@@ -26,7 +26,12 @@
 		"filesystem",
 		"Modustri",
 		"Javascript",
-		"keychain"
+		"keychain",
+		"mixins",
+		"Mixin",
+		"config",
+		"param",
+		"pragma"
 	],
 	"always_prompt_for_file_reload": false,
 	"auto_indent": true,
