@@ -42,7 +42,18 @@
 		"github",
 		"cd",
 		"py",
-		"https"
+		"https",
+		"Linting",
+		"txt",
+		"pync",
+		"pep8radius",
+		"linters",
+		"username",
+		"tsv",
+		"args",
+		"kwargs",
+		"dev",
+		"namespace"
 	],
 	"always_prompt_for_file_reload": false,
 	"auto_indent": true,
@@ -217,15 +228,15 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
+		"Makefile",
+		"Gradle_Language",
+		"ARM Assembly",
 		"Vintage",
-		"Markdown",
 		"Git",
 		"VintageEx",
-		"SublimeGDB",
-		"ARM Assembly",
 		"Gitignored File Excluder",
-		"Makefile",
-		"Gradle_Language"
+		"Markdown",
+		"SublimeGDB"
 	],
 	"ignored_words":
 	[
@@ -238,12 +249,11 @@
 	"indent_to_bracket": true,
 	"rulers":
 	[
-		72,
-		80,
-		100
+		80
 	],
 	"scroll_past_end": false,
 	"spell_check": true,
+	"tabify_tab_size": 40,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true

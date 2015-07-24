@@ -27,6 +27,8 @@
 		"SublimeLinter-pep257",
 		"SublimeLinter-pep8",
 		"SublimeLinter-pylint",
-		"Swift"
+		"Swift",
+		"Tabify",
+		"Table Editor"
 	]
 }
