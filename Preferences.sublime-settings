@@ -217,15 +217,15 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown",
-		"Git",
-		"VintageEx",
 		"SublimeGDB",
-		"ARM Assembly",
+		"VintageEx",
+		"Vintage",
 		"Gitignored File Excluder",
+		"Gradle_Language",
+		"Git",
 		"Makefile",
-		"Gradle_Language"
+		"ARM Assembly",
+		"Markdown"
 	],
 	"ignored_words":
 	[
