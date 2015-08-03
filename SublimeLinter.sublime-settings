@@ -20,7 +20,9 @@
             },
             "pep257": {
                 "@disable": false,
-                "args": [],
+                "args": [
+                    "--ignore=D103"
+                ],
                 "excludes": [],
                 "ignore": ""
             },

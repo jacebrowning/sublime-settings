@@ -53,7 +53,10 @@
 		"args",
 		"kwargs",
 		"dev",
-		"namespace"
+		"namespace",
+		"builtin",
+		"str",
+		"bool"
 	],
 	"always_prompt_for_file_reload": false,
 	"auto_indent": true,
