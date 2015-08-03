@@ -4,6 +4,7 @@
 		"zsh-theme",
 		".zshrc",
 		".zsh_aliases",
-		"_python"
+		"_python",
+		"test"
 	]
 }
