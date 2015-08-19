@@ -232,23 +232,14 @@
 	"ignored_packages":
 	[
 		"SublimeGDB",
+		"Makefile",
+		"Gitignored File Excluder",
 		"VintageEx",
 		"Vintage",
-		"Gitignored File Excluder",
-		"Gradle_Language",
-		"Git",
-		"Makefile",
 		"ARM Assembly",
 		"Markdown",
-		"Makefile",
 		"Gradle_Language",
-		"ARM Assembly",
-		"Vintage",
-		"Git",
-		"VintageEx",
-		"Gitignored File Excluder",
-		"Markdown",
-		"SublimeGDB"
+		"Git"
 	],
 	"ignored_words":
 	[
