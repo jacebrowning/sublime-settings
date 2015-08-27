@@ -56,7 +56,8 @@
 		"namespace",
 		"builtin",
 		"str",
-		"bool"
+		"bool",
+		"Uninstall"
 	],
 	"always_prompt_for_file_reload": false,
 	"auto_indent": true,
@@ -231,15 +232,15 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
-		"SublimeGDB",
-		"Makefile",
-		"Gitignored File Excluder",
-		"VintageEx",
-		"Vintage",
-		"ARM Assembly",
 		"Markdown",
+		"Gitignored File Excluder",
+		"SublimeGDB",
+		"Git",
 		"Gradle_Language",
-		"Git"
+		"Vintage",
+		"VintageEx",
+		"ARM Assembly",
+		"Makefile"
 	],
 	"ignored_words":
 	[
