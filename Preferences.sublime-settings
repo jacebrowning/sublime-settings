@@ -53,7 +53,9 @@
 		"args",
 		"kwargs",
 		"dev",
-		"namespace"
+		"namespace",
+		"validators",
+		"pylint"
 	],
 	"always_prompt_for_file_reload": false,
 	"auto_indent": true,
@@ -228,27 +230,19 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
+		"ARM Assembly",
+		"VintageEx",
 		"SublimeGDB",
-		"VintageEx",
-		"Vintage",
+		"Markdown",
 		"Gitignored File Excluder",
 		"Gradle_Language",
-		"Git",
 		"Makefile",
-		"ARM Assembly",
-		"Markdown",
-		"Makefile",
-		"Gradle_Language",
-		"ARM Assembly",
 		"Vintage",
-		"Git",
-		"VintageEx",
-		"Gitignored File Excluder",
-		"Markdown",
-		"SublimeGDB"
+		"Git"
 	],
 	"ignored_words":
 	[
+		"1's",
 		"Behrens",
 		"Enk",
 		"Marsiglia",
