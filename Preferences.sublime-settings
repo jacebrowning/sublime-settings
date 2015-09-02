@@ -55,7 +55,11 @@
 		"dev",
 		"namespace",
 		"validators",
-		"pylint"
+		"pylint",
+		"builtin",
+		"str",
+		"bool",
+		"Uninstall"
 	],
 	"always_prompt_for_file_reload": false,
 	"auto_indent": true,
@@ -238,7 +242,16 @@
 		"Gradle_Language",
 		"Makefile",
 		"Vintage",
-		"Git"
+		"Git",
+		"Markdown",
+		"Gitignored File Excluder",
+		"SublimeGDB",
+		"Git",
+		"Gradle_Language",
+		"Vintage",
+		"VintageEx",
+		"ARM Assembly",
+		"Makefile",
 	],
 	"ignored_words":
 	[
