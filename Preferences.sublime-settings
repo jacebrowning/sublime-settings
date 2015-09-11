@@ -59,7 +59,11 @@
 		"builtin",
 		"str",
 		"bool",
-		"Uninstall"
+		"Uninstall",
+		"uninstalled",
+		"uninstall",
+		"Uninstalling",
+		"linting"
 	],
 	"always_prompt_for_file_reload": false,
 	"auto_indent": true,
@@ -234,24 +238,15 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
-		"ARM Assembly",
-		"VintageEx",
 		"SublimeGDB",
-		"Markdown",
 		"Gitignored File Excluder",
-		"Gradle_Language",
+		"Markdown",
 		"Makefile",
-		"Vintage",
-		"Git",
-		"Markdown",
-		"Gitignored File Excluder",
-		"SublimeGDB",
-		"Git",
 		"Gradle_Language",
-		"Vintage",
-		"VintageEx",
 		"ARM Assembly",
-		"Makefile",
+		"Git",
+		"VintageEx",
+		"Vintage"
 	],
 	"ignored_words":
 	[
