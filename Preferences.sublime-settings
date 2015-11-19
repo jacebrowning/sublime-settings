@@ -235,18 +235,18 @@
 		"_build",
 		"build"
 	],
-	"font_size": 14,
+	"font_size": 16,
 	"ignored_packages":
 	[
-		"SublimeGDB",
-		"Gitignored File Excluder",
-		"Markdown",
-		"Makefile",
-		"Gradle_Language",
 		"ARM Assembly",
 		"Git",
-		"VintageEx",
-		"Vintage"
+		"Gitignored File Excluder",
+		"Gradle_Language",
+		"Makefile",
+		"Markdown",
+		"SublimeGDB",
+		"Vintage",
+		"VintageEx"
 	],
 	"ignored_words":
 	[

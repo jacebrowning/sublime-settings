@@ -4,6 +4,7 @@
 		".pylintrc",
 		".noserc",
 		"conf",
-		".pep8rc"
+		".pep8rc",
+		".pep257"
 	]
 }
