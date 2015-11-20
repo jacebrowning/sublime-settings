@@ -3,6 +3,7 @@
 	[
 		"Vagrantfile",
 		"Podfile",
+		"Guardfile"
 		"ru"
 	]
 }
