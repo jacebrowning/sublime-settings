@@ -1,5 +1,6 @@
 *.last-run
 *.system-ca-bundle
+*.crt
 *.tmTheme
 *.cache/
 *.bak

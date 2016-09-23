@@ -5,14 +5,10 @@
 	],
 	"installed_packages":
 	[
-		"ApacheConf.tmLanguage",
-		"Babel",
 		"EditorConfig",
 		"Git Config",
 		"Gitignore",
 		"Google Spell Check",
-		"Handlebars",
-		"HTTP Spec Syntax",
 		"INI",
 		"Jinja2",
 		"LiveReload",
@@ -24,7 +20,6 @@
 		"ProjectManager",
 		"Puppet",
 		"requirementstxt",
-		"Sass",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-pep8",
