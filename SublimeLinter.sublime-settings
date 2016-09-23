@@ -8,31 +8,26 @@
         "gutter_theme_excludes": [],
         "lint_mode": "load/save",
         "linters": {
-            "apiblueprint": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
             "jshint": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
             },
-            "pep257": {
-                "@disable": false,
-                "args": [
-                    "--ignore=D100,D101,D102,D103"
-                ],
-                "excludes": [],
-                "ignore": ""
-            },
             "pep8": {
                 "@disable": false,
-                "args": [],
+                "args": [
+                    "--config=.pep8rc"
+                ],
                 "excludes": [],
                 "ignore": "",
                 "max-line-length": null,
                 "select": ""
+            },
+            "pydocstyle": {
+                "@disable": false,
+                "add-ignore": "",
+                "args": [],
+                "excludes": []
             },
             "pylint": {
                 "@disable": false,
@@ -50,7 +45,9 @@
         "passive_warnings": false,
         "paths": {
             "linux": [],
-            "osx": [],
+            "osx": [
+                "/opt/boxen/pyenv/versions/3.5.0/Python.framework/Versions/Current/bin"
+            ],
             "windows": []
         },
         "python_paths": {
