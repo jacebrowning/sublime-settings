@@ -68,7 +68,7 @@
 	"always_prompt_for_file_reload": false,
 	"auto_indent": true,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (Flake8Lint) (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"extra_file_exclude_patterns":
