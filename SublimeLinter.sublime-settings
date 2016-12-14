@@ -8,18 +8,10 @@
         "gutter_theme_excludes": [],
         "lint_mode": "load/save",
         "linters": {
-            "jshint": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
             "pep8": {
                 "@disable": false,
-                "args": [
-                    "--config=.pep8rc"
-                ],
                 "excludes": [],
-                "ignore": "",
+                "ignore": "E501",
                 "max-line-length": null,
                 "select": ""
             },
