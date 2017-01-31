@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/Browning/Programs/virtualboombox",
+            "folder_exclude_patterns": ["virtualboombox/static"]
+		}
+	]
+}
