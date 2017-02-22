@@ -2,7 +2,8 @@
 	"folders":
 	[
 		{
-			"path": "/Users/Browning/Programs/template-python"
+			"path": "/Users/Browning/Programs/template-python",
+            "folder_exclude_patterns": ["TemplateDemo"],
 		}
 	]
 }
