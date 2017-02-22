@@ -21,13 +21,14 @@
 		"Puppet",
 		"Python Breakpoints",
 		"requirementstxt",
+		"Sass",
 		"SublimeLinter",
-		"SublimeLinter-jshint",
 		"SublimeLinter-pep8",
 		"SublimeLinter-pydocstyle",
 		"SublimeLinter-pylint",
 		"Swift",
 		"Tabify",
-		"Table Editor"
+		"Table Editor",
+		"TOML"
 	]
 }
