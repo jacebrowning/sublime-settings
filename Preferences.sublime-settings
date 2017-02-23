@@ -130,6 +130,7 @@
 		"__pycache__",
 		"env",
 		"venv",
+		".venv",
 		".ropeproject",
 		".idea",
 		".bower-tmp",
