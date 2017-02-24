@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"EditorConfig",
 		"Git Config",
 		"Gitignore",
 		"Google Spell Check",
@@ -14,21 +13,10 @@
 		"LiveReload",
 		"Makefile Improved",
 		"Markdown Preview",
-		"MarkdownEditing",
 		"Package Control",
 		"Pretty JSON",
 		"ProjectManager",
-		"Puppet",
 		"Python Breakpoints",
-		"requirementstxt",
-		"Sass",
-		"SublimeLinter",
-		"SublimeLinter-pep8",
-		"SublimeLinter-pydocstyle",
-		"SublimeLinter-pylint",
-		"Swift",
-		"Tabify",
-		"Table Editor",
 		"TOML"
 	]
 }
