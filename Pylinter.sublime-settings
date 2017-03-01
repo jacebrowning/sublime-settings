@@ -1,0 +1,30 @@
+{
+    "verbose": false,
+
+    // The full path to the Python executable you want to
+    // run Pylint with or simply use 'python'.
+    "python_bin": "python",
+
+    // The following paths will be added Pylint's Python path
+    "python_path": [
+
+                   ],
+
+    // Optionally set the working directory
+    "working_dir": null,
+
+    // Full path to the lint.py module in the pylint package
+    "pylint_path": null,
+
+    // Optional full path to a Pylint configuration file
+    "pylint_rc": null,
+
+    // Set to true to automtically run Pylint on save
+    "run_on_save": true,
+
+    // Set to true to use graphical error icons
+    "use_icons": true,
+
+    // Status messages stay as long as cursor is on an error line
+    "message_stay": true,
+}

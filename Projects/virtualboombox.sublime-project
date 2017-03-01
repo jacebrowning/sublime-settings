@@ -5,5 +5,14 @@
 			"path": "/Users/Browning/Programs/virtualboombox",
             "folder_exclude_patterns": ["virtualboombox/static"]
 		}
-	]
+    ],
+	"settings":
+    {
+        "pylinter":
+        {
+            "python_bin": "/Users/Browning/Programs/virtualboombox/.venv/bin/python",
+            "pylint_path": "/Users/Browning/Programs/virtualboombox/.venv/lib/python3.6/site-packages/pylint/lint.py",
+            "pylint_rc": "/Users/Browning/Programs/virtualboombox/.pylint.ini",
+        }
+    }
 }
