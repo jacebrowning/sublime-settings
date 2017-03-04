@@ -17,6 +17,7 @@
 		"Package Control",
 		"Pretty JSON",
 		"ProjectManager",
+		"Pylinter",
 		"Python Breakpoints",
 		"TOML"
 	]
