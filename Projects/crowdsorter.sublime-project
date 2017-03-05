@@ -4,5 +4,14 @@
 		{
 			"path": "/Users/Browning/Programs/crowdsorter"
 		}
-	]
+	],
+    "settings":
+    {
+        "pylinter":
+        {
+            "python_bin": "/Users/Browning/Programs/crowdsorter/.venv/bin/python",
+            "pylint_path": "/Users/Browning/Programs/crowdsorter/.venv/lib/python3.6/site-packages/pylint/lint.py",
+            "pylint_rc": "/Users/Browning/Programs/crowdsorter/.pylint.ini",
+        }
+    }
 }

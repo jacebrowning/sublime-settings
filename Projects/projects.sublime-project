@@ -4,5 +4,12 @@
 		{
 			"path": "/Users/Browning/Programs/projects"
 		}
-	]
+	],
+        "settings":
+        {
+            "pylinter":
+            {
+                "pylint_rc": "/Users/Browning/Programs/projects/.pylint.ini",
+            }
+        }
 }
