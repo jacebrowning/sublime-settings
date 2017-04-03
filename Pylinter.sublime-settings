@@ -17,7 +17,7 @@
     "pylint_path": "/Users/Browning/.pyenv/versions/3.6.0/Python.framework/Versions/3.6/lib/python3.6/site-packages/pylint/lint.py",
 
     // Optional full path to a Pylint configuration file
-    "pylint_rc": null,
+    "pylint_rc": "/Users/Browning/Dropbox/Settings/pylint.ini",
 
     // Set to true to automtically run Pylint on save
     "run_on_save": true,
