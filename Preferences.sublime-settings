@@ -64,7 +64,9 @@
 		"uninstall",
 		"Uninstalling",
 		"linting",
-		"unreviewed"
+		"unreviewed",
+		"plugin",
+		"plugins"
 	],
 	"always_prompt_for_file_reload": false,
 	"auto_indent": true,
