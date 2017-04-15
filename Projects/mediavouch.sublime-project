@@ -1,0 +1,18 @@
+{
+    "folders":
+    [
+        {
+            "path": "/Users/Browning/Programs/mediavouch",
+            "folder_exclude_patterns": ["staticfiles"]
+        }
+    ],
+    "settings":
+    {
+        "pylinter":
+        {
+            "python_bin": "/Users/Browning/Programs/mediavouch/.venv/bin/python",
+            "pylint_path": "/Users/Browning/Programs/mediavouch/.venv/lib/python3.6/site-packages/pylint/lint.py",
+            "pylint_rc": "/Users/Browning/Programs/mediavouch/.pylint.ini",
+        }
+    }
+}
