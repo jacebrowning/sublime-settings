@@ -3,7 +3,10 @@
 	[
 		{
 			"path": "/Users/Browning/Programs/etison/components/mothership",
-            "folder_exclude_patterns": ["vendor/bundler"],
+            "folder_exclude_patterns": [
+                "vendor/bundler",
+                "public",
+            ],
 		}
 	]
 }
