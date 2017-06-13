@@ -3,7 +3,11 @@
     [
         {
             "path": "/Users/Browning/Programs/mediavouch",
-            "folder_exclude_patterns": ["staticfiles"]
+            "folder_exclude_patterns": [
+                "backend/static/compiled",
+                "staticfiles",
+                "target",
+            ]
         }
     ],
     "settings":
