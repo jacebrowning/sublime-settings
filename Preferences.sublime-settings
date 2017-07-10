@@ -181,7 +181,7 @@
 	"indent_to_bracket": true,
 	"rulers":
 	[
-		80
+		79
 	],
 	"scroll_past_end": false,
 	"spell_check": true,
