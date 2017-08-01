@@ -4,7 +4,7 @@
         {
             "path": "/Users/Browning/Programs/mediavouch",
             "folder_exclude_patterns": [
-                "backend/static/compiled",
+                "backend/ui/static/compiled",
                 "staticfiles",
                 "target",
             ]
