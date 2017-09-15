@@ -2,4 +2,7 @@
     "enabled": true,
     "ha_style": "filled",
     "ha_icons": true,
+
+    "file_exts": [".css", ".sass", ".scss", ".less", ".styl", ".html", ".js", ".clj", ".sublime-settings", ".tmTheme", ".stTheme", ".erb", ".haml", ".back", ".py", ".md", ".svg", ".vue"],
+
 }
