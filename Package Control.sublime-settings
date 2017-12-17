@@ -25,6 +25,7 @@
 		"ProjectManager",
 		"Pylinter",
 		"Python Breakpoints",
-		"TOML"
+		"TOML",
+		"TypeScript Syntax"
 	]
 }
