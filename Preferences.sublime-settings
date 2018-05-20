@@ -66,7 +66,14 @@
 		"linting",
 		"unreviewed",
 		"plugin",
-		"plugins"
+		"plugins",
+		"Unparseable",
+		"btn",
+		"img",
+		"Zapier",
+		"frontend",
+		"backend",
+		"subdomains"
 	],
 	"always_prompt_for_file_reload": false,
 	"close_windows_when_empty": false,
@@ -182,7 +189,8 @@
 	"indent_to_bracket": true,
 	"rulers":
 	[
-		79
+		79,
+		99
 	],
 	"scroll_past_end": false,
 	"spell_check": true,
