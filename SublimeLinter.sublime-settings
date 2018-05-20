@@ -1,0 +1,27 @@
+// SublimeLinter Settings - User
+{
+    "debug": false,
+
+    "linters": {
+        "pycodestyle": {
+            "executable": "${folder}/.venv/bin/pycodestyle",
+            "args": "--config=${folder}/.pycodestyle.ini",
+        },
+        "pydocstyle": {
+            // "@disable": true,
+            "executable": "${folder}/.venv/bin/pydocstyle",
+            "args": "--config=${folder}/.pydocstyle.ini",
+        },
+        "pylint": {
+            "executable": "${folder}/.venv/bin/pylint",
+            "rcfile": "${folder}/.pylint.ini",
+        },
+        "mypy": {
+            "executable": "${folder}/.venv/bin/mypy",
+            "args": "--config=${folder}/.mypy.ini",
+        },
+    },
+
+    "show_panel_on_save": "window",
+    "statusbar.counters_template": "",
+}

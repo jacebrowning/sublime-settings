@@ -17,15 +17,20 @@
 		"Kivy Language",
 		"LiveReload",
 		"Makefile Improved",
-		"Markdown Preview",
 		"MarkdownEditing",
+		"MarkdownPreview",
 		"Package Control",
 		"Parinfer",
 		"Pretty JSON",
 		"ProjectManager",
-		"Pylinter",
 		"Python Breakpoints",
+		"SublimeLinter",
+		"SublimeLinter-contrib-mypy",
+		"SublimeLinter-pycodestyle",
+		"SublimeLinter-pydocstyle",
+		"SublimeLinter-pylint",
+		"Terraform",
 		"TOML",
-		"TypeScript Syntax"
+		"TypeScript"
 	]
 }
