@@ -73,7 +73,9 @@
 		"Zapier",
 		"frontend",
 		"backend",
-		"subdomains"
+		"subdomains",
+		"followup",
+		"Zapiens"
 	],
 	"always_prompt_for_file_reload": false,
 	"close_windows_when_empty": false,
