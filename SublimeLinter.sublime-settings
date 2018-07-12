@@ -4,19 +4,22 @@
 
     "linters": {
         "pycodestyle": {
+            "disable": true,
             "executable": "${folder}/.venv/bin/pycodestyle",
             "args": "--config=${folder}/.pycodestyle.ini",
         },
         "pydocstyle": {
-            // "@disable": true,
+            // "disable": true,
             "executable": "${folder}/.venv/bin/pydocstyle",
             "args": "--config=${folder}/.pydocstyle.ini",
         },
         "pylint": {
+            // "disable": true,
             "executable": "${folder}/.venv/bin/pylint",
             "rcfile": "${folder}/.pylint.ini",
         },
         "mypy": {
+            // "disable": true,
             "executable": "${folder}/.venv/bin/mypy",
             "args": "--config=${folder}/.mypy.ini",
         },
