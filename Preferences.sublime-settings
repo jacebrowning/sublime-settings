@@ -75,7 +75,8 @@
 		"backend",
 		"subdomains",
 		"followup",
-		"Zapiens"
+		"Zapiens",
+		"signup"
 	],
 	"always_prompt_for_file_reload": false,
 	"close_windows_when_empty": false,
