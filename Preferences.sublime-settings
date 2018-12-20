@@ -212,6 +212,7 @@
 	"scroll_past_end": false,
 	"spell_check": true,
 	"tabify_tab_size": 40,
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true
